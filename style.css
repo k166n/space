@@ -1,0 +1,81 @@
+body{
+    background-image: url("abstract-geometric-background-shapes-texture_1194-305438.avif");
+}
+h1{
+    color:white;
+}
+.Mercury{
+    color: rgb(128, 128, 128);
+}
+img{
+    height: 200px;
+    border-style: solid;
+    
+}
+.Venus{
+    color: rgb(194, 36, 36);
+}
+.picVenus{
+    height: 250;
+}
+.Earth{
+    color: rgb(0, 145, 255);
+}
+.picEarth{
+    height: 250;
+}
+.Mars{
+    color: rgb(178, 44, 44);
+}
+.picMars{
+    height: 250;
+}
+.Asteroid{
+    color: rgb(255, 255, 255);
+}
+.picAseroid{
+    height: 250;
+}
+.Jupiter{
+    color: rgb(181, 98, 15);
+}
+.picJupiter{
+    height: 250;
+}
+.Saturn{
+    color: rgb(237, 156, 129);
+}
+.picSaturn{
+    height: 250;
+}
+.Uranus{
+    color: rgb(0, 255, 255);
+}
+.picUranus{
+    height: 250;
+}
+.Neptune{
+    color: rgb(58, 58, 233);
+}
+.picNeptune{
+    height: 250;
+}
+.links{
+    padding-left: 9px;
+    padding-right: 9px;
+    font-family: fantasy;
+    font-size: 20px;
+    display: inline-flex;
+}
+.menu{
+    list-style: none;
+    position: fixed;
+    background: rgba(255, 255, 255, 0.464);
+    width: 100%;
+    top:0px;
+    z-index:9;
+    cursor: pointer;
+}
+.background1{
+
+}
